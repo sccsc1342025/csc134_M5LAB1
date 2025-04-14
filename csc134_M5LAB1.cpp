@@ -102,3 +102,7 @@ void investigate_noise_outside() {
     choice_go_home();
   }
 }
+
+void look_around_house() {
+    cout << "You enter the house and find nothing. Leaving with dissapointment" << endl;
+}
